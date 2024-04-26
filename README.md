@@ -54,7 +54,15 @@ Also, Eelco is a **chair** of Foundation. "chair" as in "president". Implying mo
 
 > Third, I have not been a member of the RFC Steering Committee since new members were elected in January 2024.
 
-Cool. The RFC process was established since Feb 11, 2017. Eelco had been the authority in RFC process for 7 years.
+Cool. The RFC process was established since Feb 11, 2017. [RFC 36](https://github.com/NixOS/rfcs/pull/36), which establishes RFC Steering Committee, was merged on Dec 25, 2018. This leaves a period of almost 2 years where Eelco had complete authority over the process.
+
+Next, [RFC 43](https://github.com/NixOS/rfcs/pull/43), which establishes RFC Steering Committee rotation, was merged on Jun 11, 2019. This outlines a very clear procedure for changing members of RFC Steering Committee. Eelco was part of the RFC Steering Committee until January 2024 - for 4.5 years. As a member of RFC Steering Committee, he had a lot of associated formal authority.
+
+Additionally, the infamous [RFC 49](https://github.com/NixOS/rfcs/pull/49) was open by Eelco himself. This clearly poses a conflict of interests: as a member of RFC Steering Committee, he is supposed to maintain unbiased perspective on the discussion at hand, but he is also an author of RFC and the major player in driving this discussion. This is also a major conflict of interests with being a lead developer of CppNix.
+
+RFC 49 has done immeasurable damage to the Nix project. Flakes were merged upstream before the RFC even reached FCP. Eelco clearly abused his authority as lead developer of CppNix to push flakes, made a joke of the RFC process, and contributed to the degradation of the governance model. RFC was withdrawn, which suggests that community decided against the feature - but the community **had to** accept Flakes as an experimental feature, because it was already merged into CppNix. Flakes being merged against the RFC process and marked as "experimental" (and marketed as production-ready) caused multiple technical and governance issues: ridiculous amounts of regressions in Nix 2.4, motivating [RFC 68](https://github.com/NixOS/rfcs/pull/68), [RFC 106](https://github.com/NixOS/rfcs/blob/master/rfcs/0106-nix-release-schedule.md), [RFC 134](https://github.com/NixOS/rfcs/pull/134), [RFC 136](https://github.com/NixOS/rfcs/pull/136) and [RFC 158](https://github.com/NixOS/rfcs/pull/158).
+
+Eelco had done such a poor job at managing RFC 49 and its consequences, that it is grounds enough to remove him from any positions of authority and temporarily embargo his contributions. He has not faced any responsibility for this, and held onto his authority. This has done a lot of damage to the community in general, and it's only now that we're starting to catch up with the thought that he should be held accountable for this disaster.
 
 > Fourth, the NixOS Foundation in no way controls or governs the Nix community, which has, since its inception, demonstrated its ability to self-govern very well.
 
