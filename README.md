@@ -22,10 +22,6 @@ This adds to the point above. The main sponsor of the main community event repre
 
 To put it simply: he overrules the decision of CppNix by himself, despite having no more formal authority.
 
-> Single-handedly blocking Meson, which has a passed RFC, for **five years** *because he doesn’t know meson but knows his own build system*: https://github.com/NixOS/nix/pull/3160#issuecomment-544903418 and https://discourse.nixos.org/t/2024-04-03-nix-team-meeting-135/42962
-
-To put it simply: he wasn't able to stop the community RFC from passing, and he's sabotaging attempts to act on this RFC.
-
 > Eelco ignored repeated calls to disclose anything about whether he has a conflict of interest with respect to Anduril, one of which follows:
 > ![](https://save-nix-together.org/post-media/9ff794bc-48ea-4c9c-97f8-70199600ec0e.png)
 > Graham claimed they have NDAs preventing them from disclosing whether they are entangled with Anduril.
