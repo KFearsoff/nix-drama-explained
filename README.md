@@ -23,8 +23,11 @@ This adds to the point above. The main sponsor of the main community event repre
 To put it simply: he overrules the decision of CppNix by himself, despite having no more formal authority.
 
 > Eelco ignored repeated calls to disclose anything about whether he has a conflict of interest with respect to Anduril, one of which follows:
+>
 > ![](https://save-nix-together.org/post-media/9ff794bc-48ea-4c9c-97f8-70199600ec0e.png)
+>
 > Graham claimed they have NDAs preventing them from disclosing whether they are entangled with Anduril.
+>
 > ![](https://save-nix-together.org/post-media/9bec220c-702b-42b2-acd7-f6115d36ca13.png)
 
 NDA requires two or more parties to enter into a legally binding contract. That suggests that DetSys and Anduril were heavily considering partnership, at the very least. Being potential partners with Anduril already constitutes a conflict of interest, and it is not addressed at all.
@@ -41,7 +44,13 @@ The letter hasn't implied any involvement in Nixpkgs and NixOS. The letter discu
 
 > Second, I am just one member of the five-member Nix team and hold no more formal authority than the others in determining the direction of the team.
 
-According to the [official website](https://nixos.org/community/teams/foundation-board/), Eelco is a **chair** of Foundation. "chair" as in "president". Implying most authority.
+This is a lie. Eelco is not *just* a member of the team - he is a team lead. This clearly means he holds more formal authority. This information is available on [official website](https://nixos.org/community/teams/nix/):
+
+![Eelco is clearly stated as a Team lead of Nix team on nixos.org](./images/eelco-teamlead.png)
+
+Also, Eelco is a **chair** of Foundation. "chair" as in "president". Implying most authority. This constitutes elevated authority - even if Eelco lacks enough authority as a teamlead, he can always weigh in as a chair of Foundation. This information is available on the [official website](https://nixos.org/community/teams/foundation-board/):
+
+![Eelco is clearly stated as a chair of Nix Foundation on nixos.org](./images/eelco-chair.png)
 
 > Third, I have not been a member of the RFC Steering Committee since new members were elected in January 2024.
 
