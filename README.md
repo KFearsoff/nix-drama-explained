@@ -45,7 +45,7 @@ The letter hasn't implied any involvement in Nixpkgs and NixOS. The letter discu
 
 > Second, I am just one member of the five-member Nix team and hold no more formal authority than the others in determining the direction of the team.
 
-According to the nixos.org , Eelco is a **chair** of Foundation. "chair" as in "president". Implying most authority.
+According to the [official website](https://nixos.org/community/teams/foundation-board/), Eelco is a **chair** of Foundation. "chair" as in "president". Implying most authority.
 
 > Third, I have not been a member of the RFC Steering Committee since new members were elected in January 2024.
 
