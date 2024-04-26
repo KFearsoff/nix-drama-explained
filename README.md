@@ -32,6 +32,8 @@ To put it simply: he overrules the decision of CppNix by himself, despite having
 
 NDA requires two or more parties to enter into a legally binding contract. That suggests that DetSys and Anduril were heavily considering partnership, at the very least. Being potential partners with Anduril already constitutes a conflict of interest, and it is not addressed at all.
 
+Also, there are ways to answer the question about having a conflict of interest that don't breach NDA. You don't have to outright confirm or deny if you are working with Anduril - you can just say if you have conflict of interest or not. The fact that no one had done that, and the long history of Eelco dodging the question, suggests that the conflict of interest is definitely present.
+
 ## Response
 
 Links: [live](https://determinate.systems/posts/on-community-in-nix/), [Archive](https://archive.is/lndrH), [WaybackMachine](https://web.archive.org/web/20240000000000*/https://determinate.systems/posts/on-community-in-nix/)
