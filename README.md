@@ -32,6 +32,14 @@ This adds to the point above. The main sponsor of the main community event repre
 
 To put it simply: he overrules the decision of CppNix by himself, despite having no more formal authority.
 
+> Single-handedly blocking Meson, which has a passed RFC, for **five years** *because he doesn’t know meson but knows his own build system*: https://github.com/NixOS/nix/pull/3160#issuecomment-544903418 and https://discourse.nixos.org/t/2024-04-03-nix-team-meeting-135/42962
+
+This is not entirely correct. Five years have passed since the Meson idea was pitched. Of those, 3.5 years Eelco enjoyed implicit monopoly on CppNix - and hasn't contributed to bringing Meson closer to reality. Then, roughly at the same time, Meson RFC (which is still open) and Nix team were created. In those 1.5 years, the team figured out the internal stuff and was discussing on how to proceed with Meson. Only recently (last month) progress was made on starting the migration to Meson.
+
+Overall, the issue is more complex than just Eelco blocking the migration for five years. The example chosen is a poor one.
+
+You can read this for more details: https://github.com/KFearsoff/nix-drama-explained/issues/1
+
 > Eelco ignored repeated calls to disclose anything about whether he has a conflict of interest with respect to Anduril, one of which follows:
 >
 > ![](https://save-nix-together.org/post-media/9ff794bc-48ea-4c9c-97f8-70199600ec0e.png)
