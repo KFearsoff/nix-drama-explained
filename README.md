@@ -115,3 +115,17 @@ What about the alleged conflicts of interest, by the way? No mention of Anduril 
 So if someone feels unsafe in the Nix community due to Eelco's mismanagement of the community - they are welcome to join the DetSys community. Not only is this absurd, it's also an outright confirmation that Eelco grossly mismanaged Nix community, and instead of owning up to those mistakes - focused on making his own.
 
 To call this **disgusting** would be an understatement. Instead of taking proper responsibility - somehow Eelco still has the audacity to try and use the fallout of his poor decisions for his gain, by announcing himself and DetSys as de-facto owners of the project.
+
+## Additional Input
+
+### Delroth
+
+Delroth is the person who is mentioned a few times in the open letter, who has done a lot of good work on Nix Infra. He started a thread on Mastodon, clarifying some points and adding more context.
+
+Links: [live](https://mastodon.delroth.net/@delroth/112310645064859357), [WaybackMachine](https://web.archive.org/web/20240000000000*/https://mastodon.delroth.net/@delroth/112310645064859357)
+
+> The commentary on Eelco sitting on leadership roles and not doing anything + not allowing contributions fully reflects my experience with joining the #NixOS infra team. When I expressed interest to join the infra team when it was clearly understaffed and malfunctioning, this was blocked for **6 months** by Eelco, even though I was supported by the foundation board member nominally in charge of infra.
+> The only way I was able to push through that (and am still able to push through that, when Eelco pops his head to try and make decisions even though he hasn't really touched the NixOS infra in years) is by having a massive ego and pushing other people around to ignore him when needed.
+> That's not how a properly working team or project should operate, and these are not character traits which should be a requirement for people to contribute to the parts of Nix that Eelco is involved with.
+
+This is very concerning, and sheds a lot more light on how harmful Eelco using his implicit authority to push people around has been. This describes how hard it is to change the systematic issues in Nix community as long as Eelco is in place.
