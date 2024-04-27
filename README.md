@@ -4,6 +4,14 @@
 
 This repository aims to list some key points that are easy to understand without all of the context. This is a compilation of damning evidence for Eelco's leadership, essentially.
 
+If you're looking for a TL;DR of the situation, here it is:
+
+- Nix community had a governance crisis for years. While there has been progress on building explicit teams to govern the project, it continued to fundamentally rely on implicit authority and soft power
+- Eelco Dolstra, as one of the biggest holders of this implicit authority and soft power, has continuously abused this authority to push his decisions, and to block decisions that he doesn't like
+- Crucially, he also used his implicit authority to block any progress on solving this governance crisis and establishing systems with explicit authority
+- This has led uncountably many people to burn out over the issue, and culminated in writing an open letter to have Eelco resign from all formal positions in the project and take a 6 month break from any involvement in the community
+- Eelco wrote a response that largely dismisses the issues brought up, and advertises his company's community as a substitute for Nix community
+
 ## Open Letter
 
 Links: [live](https://save-nix-together.org/), [WaybackMachine](https://web.archive.org/web/20240000000000*/https://save-nix-together.org/)
