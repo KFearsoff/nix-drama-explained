@@ -20,6 +20,8 @@ Links: [live](https://save-nix-together.org/), [WaybackMachine](https://web.arch
 
 Anduril **is not** forbidden to contribute to Nix. People take issue with Anduril **sponsoring the main Nix community event**. This sponsorship isn't the same as just donating money. The sponsors of the main community event are understood to be very close to values of the project. Anduril, a military tech company, **does not** represent the values of the project.
 
+Unlike donation or contribution, being a sponsor comes with many strings attached. Sponsors are commonly given a special shoutout: that would make NixCon **advertise and endorce Anduril**. Anduril is not only a commercial company, it's also very controversial: it contracts for the US Military, and it also develops software to prevent people from crossing US-Mexican border. This is a very political and controversial business to have, and NixCon directly associating itself with Anduril sponsorship means that the project supports the values of Anduril.
+
 This tweet is an attempt at sabotaging the discussion, as it purposefully misses the point.
 
 > The CCC VOC (video operation centre) threatened to pull out of NixCon 2023 at the last minute over the Anduril sponsorship and effectively prevent the conference operating, and the NixOS Foundation lost a huge amount of good will over their management of this incident. The sponsorship was dropped after such intense public pressure as well as to mitigate potential contract risks with the university hosting it (due to zivilklausel).
@@ -103,3 +105,5 @@ What about the alleged conflicts of interest, by the way? No mention of Anduril 
 > I remain committed to creating a community where everyone feels seen, heard, and valued, and I will not let unfounded accusations detract from this important work. I encourage everyone reading this who feels that they have not been heard or feels displaced to join the Determinate Systems community as we continue working to make Nix as easy to use and as impactful as possible. Our code of conduct is available here, and you can join our Discord at https://determinate.systems/discord.
 
 So if someone feels unsafe in the Nix community due to Eelco's mismanagement of the community - they are welcome to join the DetSys community. Not only is this absurd, it's also an outright confirmation that Eelco grossly mismanaged Nix community, and instead of owning up to those mistakes - focused on making his own.
+
+To call this **disgusting** would be an understatement. Instead of taking proper responsibility - somehow Eelco still has the audacity to try and use the fallout of his poor decisions for his gain, by announcing himself and DetSys as de-facto owners of the project.
