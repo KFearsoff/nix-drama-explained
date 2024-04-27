@@ -116,6 +116,30 @@ So if someone feels unsafe in the Nix community due to Eelco's mismanagement of 
 
 To call this **disgusting** would be an understatement. Instead of taking proper responsibility - somehow Eelco still has the audacity to try and use the fallout of his poor decisions for his gain, by announcing himself and DetSys as de-facto owners of the project.
 
+## Moderation and RFC 98
+
+As explained, there is a major governance crisis in Nix community. People tried to solve it multiple times, but every time it was blocked - regardless of how it was pitched. This is the reason why the conflict was escalated to the open letter format.
+
+There is a common misunderstanding about the role of Moderation Team in Nix community. To understand the unique position of Moderation Team, we have to discuss the [RFC 98](https://github.com/NixOS/rfcs/pull/98), its premises and consequences.
+
+RFC 98 is ambitious. It doesn't just try to establish a Moderation Team that will monitor official spaces and ban people who are obviously acting out of ill intent (such as trolls, bots, and spammers) - it tries to establish a team that will have direct authority over people in the community and in the other teams without having authority to decide the technical goals.
+
+For example, such a team would be able to suspend or ban Eelco once many people expressed their dissatisfaction with his actions, and no compromise could be found. This would've solved the issue more gracefully, and would've solved a large part of the governance crisis that we see. It would still leave the question of technical leadership open (the team proposed by RFC 98 doesn't coordinate technical decisions), but it would solve the social aspect.
+
+This would, of course, put a lot of power into the hands of one team. This raises quite a few concerns. The RFC is aware of this:
+
+> Making this system work without precise rules requires mutual trust between members of the community and the community team. The community team will model social norms by holding themselves to a high standard of behavior.
+
+As evident, this mutual trust wasn't in place. Despite some nitpicking, the initial reception was very positive. However, what followed was not only positive feedback, but also [doubt that there are issues to fix](https://github.com/NixOS/rfcs/pull/98#issuecomment-892216318), [calling out the author on their non-Nix activism](https://github.com/NixOS/rfcs/pull/98#issuecomment-892403988), [calling out the author and doubting their authority](https://github.com/NixOS/rfcs/pull/98#issuecomment-892424443), [doubting their authority again](https://github.com/NixOS/rfcs/pull/98#issuecomment-892448665), [fundamental distrust towards the proposed team in general](https://github.com/NixOS/rfcs/pull/98#issuecomment-893601244), [concerns about establishing dictatorship](https://github.com/NixOS/rfcs/pull/98#pullrequestreview-723897157), [more distrust](https://github.com/NixOS/rfcs/pull/98#issuecomment-902913333), [US politics](https://github.com/NixOS/rfcs/pull/98#issuecomment-903167662), [dismissing concern for the future](https://github.com/NixOS/rfcs/pull/98#pullrequestreview-752157584).
+
+The goal isn't to call people out on disagreeing with the RFC: it's to provide concrete examples. Ultimately, what we were left is discussion that aged like milk, several posts predicting the horrible outcome we turned out to have ([one](https://github.com/NixOS/rfcs/pull/98#issuecomment-894286670), [two](https://github.com/NixOS/rfcs/pull/98#issuecomment-894473214)), [moving RFC to draft](https://github.com/NixOS/rfcs/pull/98#issuecomment-1103924595) after a period of radio silence, and [dismantling of the RFC altogether](https://github.com/NixOS/rfcs/pull/98#issuecomment-1879485031) after years of radio silence. Partially-overlapping [RFC 114](https://github.com/NixOS/rfcs/pull/114) was also closed.
+
+Ultimately, the Moderation system that we have today is built after [RFC 102](https://github.com/NixOS/rfcs/pull/102), which is a lot more narrow in the design. Interestringly, the [approved RFC text](https://github.com/NixOS/rfcs/blob/master/rfcs/0102-moderation-team.md) mentions this:
+
+> The role of the moderation team could evolve through an effort similar to [RFC 98](https://github.com/NixOS/rfcs/pull/98) into taking a broader community leadership responsibility as a 'Leadership Team' or 'Community Team'.
+
+This seems to describe the situation that is currently happening, and that is causing a lot of controversy. Ultimately, it is RFC 98 being implemented years later than it should've been.
+
 ## Additional Input
 
 ### Delroth
