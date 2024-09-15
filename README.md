@@ -1,4 +1,18 @@
-# README
+# Archival Notice
+
+From 15th September 2024, this repository is publicly archived.
+
+It's been some long months since the governance crisis fallout. Since then, a number of things that are worth talking about happened. First, Jon Ringer's ban expired. I haven't covered it here, but Jon Ringer had quite a run. He derailed any conversation regarding governance and community into whataboutism, "I haven't experienced this problem so it doesn't exist", funny mental models that he explicitly says don't work, as well as rallying up Reddit people for flame wars after the ban. So his ban expired, and he immediately jumped the gun to start another flame war in the Nixpkgs Github issues ([link](https://github.com/NixOS/nixpkgs/issues/50105#issuecomment-2179462978), I suggest you check the post before he edited it, it's nuts). Then, he moved to [Discourse](https://discourse.nixos.org/t/should-jonringer-get-his-commit-bit-back/47267) and [Reddit](https://www.reddit.com/r/NixOS/comments/1djuxpx/drama_will_jonringers_commit_bit_be_restored/). Ironically, the Reddit post came out sooner, and got downvoted, and also removed.
+
+Needless to say, Jon got his way. His commit access was restored, board member Infinisil came out to make a joint statement with Jon welcoming him back ([Reddit](https://www.reddit.com/r/NixOS/comments/1dsx4du/moving_forward_together/), [Discourse](https://discourse.nixos.org/t/nca-member-jonringer-joint-announcement/48231)), and many Nixpkgs maintainers, including high-profile ones, resigned ([Github Search](https://github.com/NixOS/nixpkgs/issues?q=label%3A%228.has%3A+maintainer-list+%28update%29%22+is%3Aclosed+created%3A2024-07-01..2024-07-02+), [Reddit discussion](https://www.reddit.com/r/NixOS/comments/1dtqlga/maintainers_exodus_over_recent_events/)).
+
+So, I don't have it in me to fight anymore. As of [#342128](https://github.com/NixOS/nixpkgs/pull/342128), I'm no longer a Nixpkgs maintainer (not that I was a big deal before). I no longer have faith in the future of NixOS Project, nor do I want it to have future.
+
+If you still want to contribute to Nix, Nixpkgs or NixOS - I highly advice you to look at [Aux Project](https://auxolotl.org/en/) or [Lix](https://lix.systems/) instead, and see if your effort is better appreciated there. I'll do that too, once I have recovered from the burn-out of trying to salvage something out of the mainline.
+
+Original text is provided below, unedited.
+
+## Introduction
 
 [The open letter](https://save-nix-together.org/) is very vague at some points. It tries to outline some real issues that require years of context to fully grasp. Without having this necessary context - it is very hard to follow some of the points made, and evidence seems very poor.
 
